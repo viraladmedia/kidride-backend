@@ -23,6 +23,13 @@ dist-ssr
 *.sln
 *.sw?
 
+
+.git# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/   
+
+
 .env
 .env.local
 .env.development.local
